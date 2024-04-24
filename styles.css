@@ -42,6 +42,7 @@ div{
 }
 .fa{
 	color:red;
+	right: 40%;
 }
 @keyframes showSmall{
 	0%{
